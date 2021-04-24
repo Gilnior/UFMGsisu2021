@@ -7,11 +7,12 @@ This project was made to analyze this [PDF](https://www.ufmg.br/sisu/wp-content/
 I created funtions that can show differents things accordingly to the given parameter.
 
 ## Technologies
-*PyPDF2
-*pandas
-*re
-*matplotlib
-*jupyter
+
+* PyPDF2
+* pandas
+* re
+* matplotlib
+* jupyter
 
 ## Objective
 To answer the following questions:
