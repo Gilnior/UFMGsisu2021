@@ -4,7 +4,7 @@
 ## Introduction
 
 This project was made to analyze this [PDF](https://www.ufmg.br/sisu/wp-content/uploads/2021/04/M%C3%A1ximos-e-M%C3%ADnimos-ap%C3%B3s-Chamada-regular.pdf) and answer somes questions, while I learn more. 
-I created funtions that can show differents things accordingly to the given parameter.
+I created functions that can show differents things accordingly to the given parameter.
 
 ## Technologies
 
